@@ -19,6 +19,9 @@
 
 [Live Demo Link](https://demix007.github.io/Capstone-Project-Style-Conference/)
 
+[Live Demo Link](https://www.loom.com/share/afa22ca17b604af38c8cc5b72b1f09f9)
+
+
 👤 **Ayodeji Abidemi**
 
 - GitHub: [@githubhandle](https://github.com/demix007)
