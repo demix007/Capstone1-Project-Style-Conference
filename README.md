@@ -1,62 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# HTML/CSS & JavaScript capstone project - Conference Page
 
-> Description the project.
-
+> This project is a final capstone project for HTML/CSS & JavaScript. In this capstone project I built an online website for a conference using Cindy's design on Behance, but I personalized the content.  
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS & JAVASCRIPT.
 
-## Live Demo (if available)
+## Live Demo    
 
-[Live Demo Link](https://livedemo.com)
+[Live Site Demo](https://demix007.github.io/Capstone-Project-Style-Conference/)
 
+[Project Description Video](https://www.loom.com/share/e24d0cb3af1d4675a9372fed7b3c3eb2)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+- To get a local copy up and running follow these simple example steps:
 
 ### Setup
 
-### Install
+- Download or clone this Repo in your local machine.
 
 ### Usage
 
-### Run tests
+- Open the index.html in your browser
 
-### Deployment
+👤 **Ayodeji Abidemi**
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/demix007)
+- Twitter: [@twitterhandle](https://twitter.com/dat_dope_demix)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ayodeji-abidemi-b76935218/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/demix007/Capstone-Project-Style-Conference/issues).
 
 ## Show your support
 
@@ -64,9 +44,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Inspiration for this design was from Cindy Shin in Behance as the design is her original idea. 
 
 ## 📝 License
 
