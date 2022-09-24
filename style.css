@@ -31,7 +31,8 @@ html {
 .main-navigation,
 .logo,
 .product,
-.menu-nav {
+.menu-nav,
+.whole-events-container {
   display: none;
 }
 
@@ -269,6 +270,14 @@ hr {
   justify-content: center;
 }
 
+.speaker-image {
+    width: 10rem;
+}
+
+.speaker-title {
+    color: #e23f2d;
+}
+
 .speaker-details {
   padding-left: 3%;
   display: flex;
@@ -365,7 +374,8 @@ footer .copyright {
 
   #openMenu,
   #closeMenu,
-  .home-link {
+  .home-link,
+  .events-button-container {
     display: none;
   }
 
@@ -499,7 +509,6 @@ footer .copyright {
     border-radius: 1rem;
     max-width: 50%;
     margin-inline-start: 1.5rem;
-    box-shadow: 0.3rem 0.7rem #e23f2d;
   }
 
   .event-info {
@@ -554,9 +563,10 @@ footer .copyright {
   }
 
   .event .event-img {
-    width: 60%;
+    width: 85%;
     height: unset;
-    margin-top: -4rem;
+    margin-block-start: -32%;
+    margin-block-end: 10%;
     transform: scale(0.3);
   }
 
@@ -587,6 +597,24 @@ footer .copyright {
     margin-block: 10%;
     margin-top: 2.5rem;
     margin-bottom: 62px;
+  }
+
+  .whole-events-container {
+    display: block;
+    width: 30%;
+    padding-block: 2%;
+    margin-inline: auto;
+    height: 7rem;
+    margin-block: 10%;
+    margin-block-start: 1.7%;
+    margin-bottom: 62px;
+  }
+
+  .whole-event {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 1.8rem;
+    margin-inline-start: 30%;
   }
 
   /* Speakers Section Stylings */

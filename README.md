@@ -2,14 +2,7 @@
 
 # HTML/CSS & JavaScript capstone project - Conference Page
 
-> This project is a final capstone project for HTML/CSS & JavaScript. In order to meet the project requirements, I had to implement the following: 
-- Set up the Linters and ensured that there are no linter errors. 
-- Used the correct GitHub flow.
-- Used the recommended design guidelines including colors, typography, and layout.
-- Built the first two pages: The home page and the about page.
-- Ensured that each page has versions for 2 different sizes: the mobile (up to 768px wide) and the desktop(768px or wider) versions.
-- Created interactions on the site (Links and mobile menu).
-- Created the section "Featured Speakers" dynamically in JavaScript.    
+> This project is a final capstone project for HTML/CSS & JavaScript. In this capstone project I built an online website for a conference using Cindy's design on Behance, but I personalized the content.  
 
 ## Built With
 
@@ -17,10 +10,21 @@
 
 ## Live Demo    
 
-[Live Demo Link](https://demix007.github.io/Capstone-Project-Style-Conference/)
+[Live Site Demo](https://demix007.github.io/Capstone-Project-Style-Conference/)
 
-[Live Demo Link](https://www.loom.com/share/afa22ca17b604af38c8cc5b72b1f09f9)
+[Project Description Video](https://www.loom.com/share/afa22ca17b604af38c8cc5b72b1f09f9)
 
+## Getting Started
+
+- To get a local copy up and running follow these simple example steps:
+
+### Setup
+
+- Download or clone this Repo in your local machine.
+
+### Usage
+
+- Open the index.html in your browser
 
 👤 **Ayodeji Abidemi**
 
@@ -40,9 +44,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Inspiration for this design was from Cindy Shin in Behance as the design is her original idea. 
 
 ## 📝 License
 

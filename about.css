@@ -428,7 +428,6 @@ footer .copyright {
 
   #openMenu,
   #closeMenu,
-  .page-list.home,
   .showcase-intro,
   .partners-section {
     display: none;
@@ -568,7 +567,6 @@ footer .copyright {
     border-radius: 1rem;
     max-width: 50%;
     margin-inline-start: 1.5rem;
-    box-shadow: 0.3rem 0.7rem #e23f2d;
   }
 
   .email {
