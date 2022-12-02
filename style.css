@@ -255,11 +255,13 @@ hr {
 
 .featured-speakers-heading {
   text-align: center;
+  font-size: 1.5rem;
 }
 
 .speaker-section {
   width: 100%;
   margin-inline: auto;
+  font-size: 1.3rem;
   display: flex;
   justify-content: space-between;
   margin-block: 12%;
@@ -276,6 +278,7 @@ hr {
 
 .speaker-title {
   color: #e23f2d;
+  font-size: 22rem;
 }
 
 .speaker-details {
@@ -285,8 +288,13 @@ hr {
   justify-content: center;
 }
 
+.about-speaker {
+  font-size: 22rem;
+}
+
 .speaker-name {
   margin-block: 0;
+  font-size: 2rem;
 }
 
 .speaker-designation {
