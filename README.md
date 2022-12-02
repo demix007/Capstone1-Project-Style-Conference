@@ -10,7 +10,7 @@
 
 ## Live Demo    
 
-[Live Site Demo](https://demix007.github.io/Capstone-Project-Style-Conference/)
+[Live Site Demo](https://demix007.github.io/Capstone1-Project-Style-Conference/)
 
 [Project Description Video](https://www.loom.com/share/e24d0cb3af1d4675a9372fed7b3c3eb2)
 
