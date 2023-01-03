@@ -2,11 +2,15 @@
 
 # HTML/CSS & JavaScript capstone project - Conference Page
 
-> This project is a final capstone project for HTML/CSS & JavaScript. In this capstone project I built an online website for a conference using Cindy's design on Behance, but I personalized the content.  
+This project is a final capstone project for HTML/CSS & JavaScript. It features a gathering of all national cristian community where believers all over Nigeria to gather in His presence, to celebrate, feast, and connect.
+
+In this capstone project I built an online website for a conference using Cindy's design on Behance, but I personalized the content.  
 
 ## Built With
 
-- HTML, CSS & JAVASCRIPT.
+- HTML
+- CSS
+- JAVASCRIPT.
 
 ## Live Demo    
 
@@ -28,9 +32,9 @@
 
 👤 **Ayodeji Abidemi**
 
-- GitHub: [@githubhandle](https://github.com/demix007)
-- Twitter: [@twitterhandle](https://twitter.com/dat_dope_demix)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ayodeji-abidemi-b76935218/)
+- GitHub: [@demix007](https://github.com/demix007)
+- Twitter: [@Ayodeji Abidemi](https://twitter.com/dat_dope_demix)
+- LinkedIn: [Ayodeji Abidemi](https://linkedin.com/in/ayodeji-abidemi-b76935218/)
 
 ## 🤝 Contributing
 
