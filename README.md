@@ -2,7 +2,7 @@
 
 # HTML/CSS & JavaScript capstone project - Conference Page
 
-This project is a final capstone project for HTML/CSS & JavaScript. It features a gathering of all national cristian community where believers all over Nigeria to gather in His presence, to celebrate, feast, and connect.
+This project is my final capstone project for HTML/CSS & JavaScript. It features a gathering of all national christian community where believers all over Nigeria to gather in His presence, to celebrate, feast, and connect.
 
 In this capstone project I built an online website for a conference using Cindy's design on Behance, but I personalized the content.  
 
