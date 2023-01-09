@@ -47,6 +47,8 @@ You need:
 
 - Open the index.html in your browser
 
+### Author
+
 👤 **Ayodeji Abidemi**
 
 - GitHub: [@demix007](https://github.com/demix007)
@@ -66,6 +68,10 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Inspiration for this design was from [Cindy Shin](https://www.behance.net/adagio07) on Behance, who is the [author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015).. 
+
+- Special thanks to Microverse for this opportunity.
+
+- A worthy acknowledgment of my colleagues who presently serve as code reviewers in the institute for their constructive feedback.
 
 ## 📝 License
 
