@@ -20,7 +20,7 @@ In this capstone project I built an online website for a conference using Cindy'
 
 [Project Description Video](https://www.loom.com/share/e24d0cb3af1d4675a9372fed7b3c3eb2)
 
-## Snapshot(s) from the page
+## Snapshot(s) from the site
 
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/35904766/210424197-a9f95248-f2d1-4f3c-b99d-c44ae9e30acd.png)
