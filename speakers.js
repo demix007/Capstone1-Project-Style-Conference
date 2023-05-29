@@ -77,10 +77,10 @@ data.forEach((speaker) => {
   speakerName.textContent = speaker.nameOfSpeaker;
   contentSection.appendChild(speakerName);
 
-  const speakerDesignation = document.createElement('p');
-  speakerDesignation.setAttribute('class', 'speaker-title');
-  speakerDesignation.textContent = speaker.speakerTitle;
-  contentSection.appendChild(speakerDesignation);
+  const speakerTitle = document.createElement('p');
+  speakerTitle.setAttribute('class', 'speaker-title');
+  speakerTitle.textContent = speaker.speakerTitle;
+  contentSection.appendChild(speakerTitle);
 
   const dotText = document.createElement('p');
   dotText.setAttribute('id', 'dots');
