@@ -45,7 +45,7 @@ You need:
 
 ### Usage
 
-- Open the index.html in your browser
+- Open the index.html in your browser to access the site on your local:host
 
 ### Author
 
