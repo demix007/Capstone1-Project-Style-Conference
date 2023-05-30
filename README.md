@@ -51,10 +51,9 @@ You need:
 
 👤 **Ayodeji Abidemi**
 
-- GitHub: [@demix007](https://github.com/demix007)
-- Twitter: [@Ayodeji Abidemi](https://twitter.com/dat_dope_demix)
-- LinkedIn: [Ayodeji Abidemi](https://linkedin.com/in/ayodeji-abidemi-b76935218/)
-
+- GitHub: [![demix007](https://img.shields.io/badge/-demix007-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/demix007)
+- Twitter: [![dat_dope_demix](https://img.shields.io/badge/-dat_dope_demix-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/dat_dope_demix)
+- LinkedIn: [![ayodeji-abidemi](https://img.shields.io/badge/-AyodejiAbidemi-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://linkedin.com/in/ayodeji-abidemi)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
